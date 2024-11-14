@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Adrián Pérez.
 
-<!--
-**apsueiro/apsueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+I'm a Software Engineering student at Universidad Politécnica de Madrid, excited to learn and grow my skills! 
 
-Here are some ideas to get you started:
+### 🌱 What I'm Learning
+- Programing Languages: Strengthening my knowledge in languages like Java, Python, C#...
+- Version Control with Git: Practicing with Git and GitHub to manage projects.
+- Project Building: Working on projects to apply what I'm learning and add to my portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Goals
+- Build a strong foundation in data structures and algorithms.
+- Complete personal projects and share them on GitHub.
+
+### 📫 How to Reach Me
+
+I'd love to connect with other people!
+- Email: adrianp.sueiro@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adrian-perez-sueiro/
